@@ -1,6 +1,6 @@
 # InsideSherpa x Quantium Data Analytics Virtual Experience Program
 
-This repo contains my workbook for both task 1 and task 2 under the Quantium Data Analytics Virtual Experience Program which can be found here https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics
+This repo contains my workbook for both task 1 and task 2 of the Quantium Data Analytics Virtual Experience Program which can be found here https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics
 
 The virtual experience program is based on a case study about a particular retail store and more specifically, the chips item cateogory within this retail store.
 
