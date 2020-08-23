@@ -5,8 +5,8 @@ This repo contains my workbook for both task 1 and task 2 of the Quantium Data A
 The virtual experience program is based on a case study about a particular retail store and more specifically, the chips item cateogory within this retail store.
 
 ## Module 1: Data Preparation and Customer Analytics
-In module 1, we are given two datasets, chips sales and customer data. We are required to carry out exploratory data analysis and identify insights about purchasing behaviour 
-for each customer segment.
+In module 1, we are given two datasets, chips sales and customer data. We are required to carry out exploratory data analysis and extract insights about purchasing behaviour 
+in each of the customer segment.
 
 ## Module 2: Experimentation and Uplift Testing
 In module 2, we are told that there are 3 trial stores that have gone through a 3-month trial period with altered store layouts. We need to assess whether or not these changes
