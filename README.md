@@ -1,7 +1,6 @@
 # Quantium Data Analytics Virtual Experience Program
 
-This repo contains my workbook for both task 1 and task 2 of the Quantium Data Analytics Virtual Experience Program. The program can be found [here](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics). It is based on a case study about a particular retail store
-and more specifically, the chips item cateogory within this retail store.
+This repository contains my workbook for both task 1 and task 2 of the [Quantium Data Analytics Virtual Experience Program](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics). It is based on a case study about a particular retail store and more specifically, the chips item cateogory within this retail store.
 
 ## Module 1: Data Preparation and Customer Analytics
 In module 1, we are given two datasets, chips sales and customer data. We are required to carry out exploratory data analysis and extract insights about purchasing behaviour 
