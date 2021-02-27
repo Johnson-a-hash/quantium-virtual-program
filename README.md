@@ -1,6 +1,6 @@
 # Quantium Data Analytics Virtual Experience Program
 
-This repository contains my workbook for both task 1 and task 2 of the [Quantium Data Analytics Virtual Experience Program](https://www.insidesherpa.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics). 
+This repository contains my workbook for both task 1 and task 2 of the [Quantium Data Analytics Virtual Experience Program](https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics?ref=DsEXFixxovqkRxR2u). 
 
 Quantium is an Australian-based data analytics and artificial intelligence company. This virtual experience program focuses on one of the many different industries that Quantium
 operates in and that is FMCG (fast-moving consumer goods). More specifically, we are looking at the sales pattern of the chips category in a particular retail store. 
